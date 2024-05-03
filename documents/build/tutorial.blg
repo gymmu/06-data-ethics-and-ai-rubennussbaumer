@@ -1,0 +1,9 @@
+[0] Config.pm:308> INFO - This is Biber 2.20
+[0] Config.pm:311> INFO - Logfile is 'c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.blg'
+[463] biber-MSWIN64:340> INFO - === 
+[500] Biber.pm:420> INFO - Reading 'c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf'
+[651] Biber.pm:994> INFO - Found 0 citekeys in bib section 0
+[677] bbl.pm:676> INFO - Writing 'c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl' with encoding 'UTF-8'
+[677] bbl.pm:779> INFO - Output to c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl
+[680] Biber.pm:131> WARN - The file 'c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf' does not contain any citations!
+[680] Biber.pm:133> INFO - WARNINGS: 1
