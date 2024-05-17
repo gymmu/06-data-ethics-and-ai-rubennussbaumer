@@ -1,12 +1,12 @@
 # Fdb version 4
-["biber c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial"] 1714114448.0324 "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial" 1714114475.86099 0
-  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf" 1714114475 132900 556be58220c605c0c4d1ea1edbe7436a "pdflatex"
+["biber c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial"] 1714114448.0324 "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial" 1715940793.13188 0
+  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bcf" 1715940792 132900 556be58220c605c0c4d1ea1edbe7436a "pdflatex"
   (generated)
   "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl"
   "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.blg"
   (rewritten before read)
-["pdflatex"] 1714114474.164 "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/tutorial/tutorial.tex" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/out/tutorial.pdf" "tutorial" 1714114475.86184 0
-  "01_einführung.tex" 1714111975 2850 b8fa0231346bab1487584fa0d4a3d101 ""
+["pdflatex"] 1715940790.23771 "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/tutorial/tutorial.tex" "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/out/tutorial.pdf" "tutorial" 1715940793.13353 0
+  "01_einführung.tex" 1715940788 2851 e00472eb5f7df2f709755adddb104c26 ""
   "02_grundlagen.tex" 1714111975 3530 e4895d11e19a835128073e2fd5c84392 ""
   "03_listen.tex" 1714111975 3318 e0021a187b2b2aaa986556258cd602fd ""
   "04_bilder.tex" 1714111975 3921 88d4bd394e2f43144ac69ca8ae518736 ""
@@ -155,11 +155,11 @@
   "C:/Users/ruben/AppData/Local/Programs/MiKTeX/tex/latex/tools/multicol.sty" 1700599895 32515 51caec75eda9c8890135f12f1a4eddc3 ""
   "C:/Users/ruben/AppData/Local/Programs/MiKTeX/tex/latex/url/url.sty" 1388490452 12796 8edb7d69a20b857904dd0ea757c14ec9 ""
   "C:/Users/ruben/AppData/Local/Programs/MiKTeX/tex/latex/xcolor/xcolor.sty" 1700127522 55487 80a65caedd3722f4c20a14a69e785d8f ""
-  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.aux" 1714114475 4178 d49f0007060f1fa1874e59bafc365439 "pdflatex"
+  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.aux" 1715940792 4178 d49f0007060f1fa1874e59bafc365439 "pdflatex"
   "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.bbl" 1714114470 486 76d65a242ec496c9b4361af646ff12cb "biber c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial"
-  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.out" 1714114475 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
-  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.run.xml" 1714114475 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
-  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.toc" 1714114475 1694 aa152061a7f88b604414f2d57c762314 "pdflatex"
+  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.out" 1715940792 2898 ca3d0a3cba12155d63e0dc4f85e721de "pdflatex"
+  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.run.xml" 1715940792 2501 43394fd86f142bb3dd5b18568c7b84e1 "pdflatex"
+  "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/build/tutorial.toc" 1715940792 1694 aa152061a7f88b604414f2d57c762314 "pdflatex"
   "c:/Users/ruben/OneDrive/Dokumente/Informatik/06-data-ethics-and-ai-rubennussbaumer/documents/tutorial/tutorial.tex" 1714111975 2528 4a9c41ab9c093309d22b2da533811537 ""
   "meme.jpg" 1714111975 89274 1f9d518465837da4a371903308fdd3db ""
   "tutorial.tex" 1714111975 2528 4a9c41ab9c093309d22b2da533811537 ""
